@@ -113,11 +113,11 @@ color: black;
       <a href="UpcomingPage.html">Upcoming</a>
       <a href="MoviesPage.html">Movies</a>
       <a href="Cat-HorrorPage.html">Category</a>
-      <a class="active" href="HomePage.html">Home</a>
+      <a class="active" href="index.html">Home</a>
     </div>
 
     <div id="Logo">
-      <a href="HomePage.html"><img src="Logo1.png" alt="Logo" height="40px" width="100px"></a> 
+      <a href="index.html"><img src="Logo1.png" alt="Logo" height="40px" width="100px"></a> 
     </div>
 
   </nav>
